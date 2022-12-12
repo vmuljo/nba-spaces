@@ -1,0 +1,277 @@
+{
+  "teams": [
+    {
+      "id": "0",
+      "name": "Boston Celtics",
+      "conference": "0",
+      "division": "Atlantic",
+      "shortname": "greenteam"
+    },
+    {
+      "id": "1",
+      "name": "Brooklyn Nets",
+      "conference": "0",
+      "division": "Atlantic",
+      "shortname": "nets"
+    },
+    {
+      "id": "2",
+      "name": "New York Knicks",
+      "conference": "0",
+      "division": "Atlantic",
+      "shortname": "knicks"
+    },
+    {
+      "id": "3",
+      "name": "Philadelphia 76ers",
+      "conference": "0",
+      "division": "Atlantic",
+      "shortname": "sixers"
+    },
+    {
+      "id": "4",
+      "name": "Toronto Raptors",
+      "conference": "0",
+      "division": "Atlantic",
+      "shortname": "raptors"
+    },
+    {
+      "id": "5",
+      "name": "Chicago Bulls",
+      "conference": "0",
+      "division": "Central",
+      "shortname": "bulls"
+    },
+    {
+      "id": "6",
+      "name": "Cleveland Cavaliers",
+      "conference": "0",
+      "division": "Central",
+      "shortname": "cavaliers"
+    },
+    {
+      "id": "7",
+      "name": "Detroit Pistons",
+      "conference": "0",
+      "division": "Central",
+      "shortname": "pistons"
+    },
+    {
+      "id": "8",
+      "name": "Indiana Pacers",
+      "conference": "0",
+      "division": "Central",
+      "shortname": "pacers"
+    },
+    {
+      "id": "9",
+      "name": "Milwaukee Bucks",
+      "conference": "0",
+      "division": "Central",
+      "shortname": "bucks"
+    },
+    {
+      "id": "10",
+      "name": "Atlanta Hawks",
+      "conference": "0",
+      "division": "Southeast",
+      "shortname": "hawks"
+    },
+    {
+      "id": "11",
+      "name": "Charlotte Hornets",
+      "conference": "0",
+      "division": "Southeast",
+      "shortname": "hornets"
+    },
+    {
+      "id": "12",
+      "name": "Miami Heat",
+      "conference": "0",
+      "division": "Southeast",
+      "shortname": "heat"
+    },
+    {
+      "id": "13",
+      "name": "Orlando Magic",
+      "conference": "0",
+      "division": "Southeast",
+      "shortname": "magic"
+    },
+    {
+      "id": "14",
+      "name": "Washington Wizards",
+      "conference": "0",
+      "division": "Southeast",
+      "shortname": "wizards"
+    },
+    {
+      "id": "15",
+      "name": "Denver Nuggets",
+      "conference": "1",
+      "division": "Northwest",
+      "shortname": "nuggets"
+    },
+    {
+      "id": "16",
+      "name": "Minnesota Timberwolves",
+      "conference": "1",
+      "division": "Northwest",
+      "shortname": "wolves"
+    },
+    {
+      "id": "17",
+      "name": "Oklahoma City Thunder",
+      "conference": "1",
+      "division": "Northwest",
+      "shortname": "thunder"
+    },
+    {
+      "id": "18",
+      "name": "Portland Trail Blazers",
+      "conference": "1",
+      "division": "Northwest",
+      "shortname": "blazers"
+    },
+    {
+      "id": "19",
+      "name": "Utah Jazz",
+      "conference": "1",
+      "division": "Northwest",
+      "shortname": "jazz"
+    },
+    {
+      "id": "20",
+      "name": "Golden State Warriors",
+      "conference": "1",
+      "division": "Pacific",
+      "shortname": "warriors"
+    },
+    {
+      "id": "21",
+      "name": "LA Clippers",
+      "conference": "1",
+      "division": "Pacific",
+      "shortname": "clippers"
+    },
+    {
+      "id": "22",
+      "name": "Los Angeles Lakers",
+      "conference": "1",
+      "division": "Pacific",
+      "shortname": "lakers"
+    },
+    {
+      "id": "23",
+      "name": "Phoenix Suns",
+      "conference": "1",
+      "division": "Pacific",
+      "shortname": "suns"
+    },
+    {
+      "id": "24",
+      "name": "Sacramento Kings",
+      "conference": "1",
+      "division": "Pacific",
+      "shortname": "kings"
+    },
+    {
+      "id": "25",
+      "name": "Dallas Mavericks",
+      "conference": "1",
+      "division": "Southwest",
+      "shortname": "mavs"
+    },
+    {
+      "id": "26",
+      "name": "Houston Rockets",
+      "conference": "1",
+      "division": "Southwest",
+      "shortname": "rockets"
+    },
+    {
+      "id": "27",
+      "name": "Memphis Grizzlies",
+      "conference": "1",
+      "division": "Southwest",
+      "shortname": "grizzlies"
+    },
+    {
+      "id": "28",
+      "name": "New Orleans Pelicans",
+      "conference": "1",
+      "division": "Southwest",
+      "shortname": "pelicans"
+    },
+    {
+      "id": "29",
+      "name": "San Antonio Spurs",
+      "conference": "1",
+      "division": "Southwest",
+      "shortname": "spurs"
+    }
+  ],
+  "divisions": [
+    {
+      "id": 0,
+      "division": "Atlantic"
+    },
+    {
+      "id": 1,
+      "division": "Central"
+    },
+    {
+      "id": 2,
+      "division": "Southeast"
+    },
+    {
+      "id": 3,
+      "division": "Northwest"
+    },
+    {
+      "id": 4,
+      "division": "Pacific"
+    },
+    {
+      "id": 5,
+      "division": "Southwest"
+    }
+  ],
+  "spaces": [
+    {
+      "name": "lakers are cool",
+      "password": "lakers",
+      "teamId": "22",
+      "id": 1
+    },
+    {
+      "name": "ghdfgh",
+      "password": "gfdhdf",
+      "teamId": "0",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "timestamp": "2022-12-9 21:53:19",
+      "user": "muljo",
+      "body": "i love lakers",
+      "spaceId": "1",
+      "id": 1
+    },
+    {
+      "timestamp": "2022-12-9 21:53:29",
+      "user": "muljo",
+      "body": "i love lakers in order",
+      "spaceId": "1",
+      "id": 2
+    },
+    {
+      "timestamp": "2022-12-9 21:55:54",
+      "user": "sdaf",
+      "body": "dfasdf",
+      "spaceId": "1",
+      "id": 3
+    }
+  ]
+}
